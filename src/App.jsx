@@ -24,7 +24,7 @@ function App() {
       <div>
         <Navbar expand="lg" className="bg-body-white">
           <Container>
-            <Navbar.Brand id='home' href="#home"><img style={{ width: '250px', height: '80px' }} src="https://www.luminartechnolab.com/static/media/logo%20vanner%200.1.ad159943.png" alt="" /></Navbar.Brand>
+            <Navbar.Brand id='home' href="#home"><img style={{ width: '250px', height: '80px' }} src="https://www.luminartechnolab.com/static/assets/img/logo/logo.png" alt="" /></Navbar.Brand>
 
           </Container>
         </Navbar>
